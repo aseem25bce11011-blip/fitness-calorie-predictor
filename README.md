@@ -33,4 +33,4 @@ This project predicts calories burned based on distance, time, weight, height, B
 - Model accuracy
 
 ## Report
-- See Project_Report.docx
+- See Fundamentals in AI and ML Project Report.docx
