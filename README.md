@@ -31,3 +31,6 @@ This project predicts calories burned based on distance, time, weight, height, B
 - Estimated calories burned
 - BMI
 - Model accuracy
+
+## Report
+- See Project_Report.docx
